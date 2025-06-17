@@ -1,0 +1,11 @@
+## Interface: 110002
+## Title: Profession Tracker
+## Notes: Track all character professions and find who can craft items
+## Author: You
+## Version: 1.0.0
+## SavedVariables: ProfessionTrackerDB
+
+Config.lua
+Core.lua
+Database.lua
+UI.lua
